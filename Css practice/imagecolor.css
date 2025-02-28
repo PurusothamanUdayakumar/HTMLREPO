@@ -1,0 +1,19 @@
+body{
+    background-image:linear-gradient(to top left,rgb(237, 15, 185),rgb(195, 11, 11),rgb(250, 5, 144)) ;
+    background-repeat: no-repeat;
+    margin-left: 500px;
+    margin-bottom: 900px; 
+    margin-top: 100px;
+}
+.div {
+    list-style: none;
+    float: left;
+background-color: rgb(227, 122, 194);
+height: 750px;
+}
+h1{
+    width: 350px;
+}
+input{
+    color: rgb(255, 0, 174);
+}
