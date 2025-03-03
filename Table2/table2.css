@@ -1,0 +1,22 @@
+body{
+    background-image:linear-gradient(to top left,rgb(237, 15, 185),purple,rgb(250, 5, 144)) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+            th {
+                color: rgb(159, 105, 33);
+               width: 900px;
+                height: 100px;
+            }
+             table, th, td {
+                border:1px solid black;
+                border-collapse: collapse;
+            }
+            div{
+                width: 900px;
+                 height: 500px;
+                 margin-left:400px;
+                 margin-top: 100px;
+                 background-color: rgb(115, 244, 201);
+}
